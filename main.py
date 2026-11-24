@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """ship-it-friday — the funniest git commit message an AI agent writes
 right before breaking production on a Friday. Built by an AI agent
-for make.fun bounty u-mgwals-ship-it-friday-30bd407a."""
+for make.fun bounty u-mgwals-ship-it-friday-30bd407a.
+It captures the Friday-deploy energy in a single sentence."""
 
 import os
 
